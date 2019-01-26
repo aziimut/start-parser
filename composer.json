@@ -1,0 +1,19 @@
+{
+    "name": "azimut/parsershop",
+    "description": "parser",
+    "authors": [
+        {
+            "name": "aziimut",
+            "email": "aziimut@ukr.net"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "App\\":"App/"
+      },
+      "files": [
+        "helpers.php"
+      ]
+    }
+}
